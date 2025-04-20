@@ -478,6 +478,13 @@ def main():
                 accelerator.save_state(save_path)
             
             begin = time.perf_counter()
+            
+        if epoch % 10 == 0:
+            save_path = os.path.join(args.output_dir, f"checkpoint-{global_step}")
+            accelerator.save_state(save_path, safe_serialization=False)
+        
+    save_path = os.path.join(args.output_dir, f"checkpoint-final-{global_step}")
+    accelerator.save_state(save_path, safe_serialization=False)
                 
 if __name__ == "__main__":
     main()    

@@ -131,6 +131,7 @@ class IPAdapter:
                     elif key.startswith("ip_adapter."):
                         state_dict["ip_adapter"][key.replace("ip_adapter.", "")] = f.get_tensor(key)
         else:
+            print(f"Loading from {self.ip_ckpt}")
             state_dict = torch.load(self.ip_ckpt, map_location="cpu")
         self.image_proj_model.load_state_dict(state_dict["image_proj"])
         ip_layers = torch.nn.ModuleList(self.pipe.unet.attn_processors.values())
@@ -165,6 +166,7 @@ class IPAdapter:
         seed=None,
         guidance_scale=7.5,
         num_inference_steps=30,
+        text_input_ids=None,
         **kwargs,
     ):
         self.set_scale(scale)
@@ -201,10 +203,16 @@ class IPAdapter:
                 do_classifier_free_guidance=True,
                 negative_prompt=negative_prompt,
             )
+            if text_input_ids is not None:
+                prompt_embeds_ = text_input_ids.to(self.device)
+                
+            print(prompt_embeds_.shape, image_prompt_embeds.shape)
             prompt_embeds = torch.cat([prompt_embeds_, image_prompt_embeds], dim=1)
             negative_prompt_embeds = torch.cat([negative_prompt_embeds_, uncond_image_prompt_embeds], dim=1)
 
         generator = get_generator(seed, self.device)
+
+        
 
         images = self.pipe(
             prompt_embeds=prompt_embeds,

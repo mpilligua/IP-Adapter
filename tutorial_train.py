@@ -1,4 +1,5 @@
 import os
+
 import random
 import argparse
 from pathlib import Path
@@ -7,6 +8,8 @@ import itertools
 import time
 
 import torch
+# torch.cuda.set_device(2)
+
 import torch.nn.functional as F
 from torchvision import transforms
 from PIL import Image
@@ -14,7 +17,8 @@ from transformers import CLIPImageProcessor
 from accelerate import Accelerator
 from accelerate.logging import get_logger
 from accelerate.utils import ProjectConfiguration
-from diffusers import AutoencoderKL, DDPMScheduler, UNet2DConditionModel
+from diffusers import AutoencoderKL, DDPMScheduler
+from diffusers.models.unet_2d_condition import UNet2DConditionModelReduced
 from transformers import CLIPTextModel, CLIPTokenizer, CLIPVisionModelWithProjection
 
 from ip_adapter.ip_adapter import ImageProjModel
@@ -24,6 +28,9 @@ if is_torch2_available():
 else:
     from ip_adapter.attention_processor import IPAttnProcessor, AttnProcessor
 
+
+from dataset import CustomDataset
+import wandb
 
 # Dataset
 class MyDataset(torch.utils.data.Dataset):
@@ -89,15 +96,15 @@ class MyDataset(torch.utils.data.Dataset):
     
 
 def collate_fn(data):
-    images = torch.stack([example["image"] for example in data])
-    text_input_ids = torch.cat([example["text_input_ids"] for example in data], dim=0)
-    clip_images = torch.cat([example["clip_image"] for example in data], dim=0)
+    images = torch.stack([example["gt_image"] for example in data])
+    text_input_ids = torch.cat([example["condition_text"] for example in data], dim=0)
+    clip_images = torch.cat([example["condition_image"] for example in data], dim=0)
     drop_image_embeds = [example["drop_image_embed"] for example in data]
 
     return {
-        "images": images,
-        "text_input_ids": text_input_ids,
-        "clip_images": clip_images,
+        "gt_image": images,
+        "condition_text": text_input_ids,
+        "condition_image": clip_images,
         "drop_image_embeds": drop_image_embeds
     }
     
@@ -115,9 +122,16 @@ class IPAdapter(torch.nn.Module):
 
     def forward(self, noisy_latents, timesteps, encoder_hidden_states, image_embeds):
         ip_tokens = self.image_proj_model(image_embeds)
+        
+        # print("before encoder hidden dim", encoder_hidden_states.shape)
         encoder_hidden_states = torch.cat([encoder_hidden_states, ip_tokens], dim=1)
         # Predict the noise residual
+        # print("encoder hidden proj", self.unet.encoder_hid_proj)
+        # print("encoder hidden dim type", self.unet.config.encoder_hid_dim_type)
+        # print("addition embed type", self.unet.config.addition_embed_type)
+        # print("encoder hidden dim", encoder_hidden_states.shape)
         noise_pred = self.unet(noisy_latents, timesteps, encoder_hidden_states).sample
+        # exit(0)
         return noise_pred
 
     def load_from_checkpoint(self, ckpt_path: str):
@@ -249,7 +263,7 @@ def parse_args():
             ' (default), `"wandb"` and `"comet_ml"`. Use `"all"` to report to all integrations.'
         ),
     )
-    parser.add_argument("--local_rank", type=int, default=-1, help="For distributed training: local_rank")
+    parser.add_argument("--local_rank", type=int, default=2, help="For distributed training: local_rank")
     
     args = parser.parse_args()
     env_local_rank = int(os.environ.get("LOCAL_RANK", -1))
@@ -261,6 +275,9 @@ def parse_args():
 
 def main():
     args = parse_args()
+    time_str = time.strftime("%Y-%m-%d_%H-%M-%S", time.localtime())
+    args.output_dir = args.output_dir + "/" + time_str + "/"
+    
     logging_dir = Path(args.output_dir, args.logging_dir)
 
     accelerator_project_config = ProjectConfiguration(project_dir=args.output_dir, logging_dir=logging_dir)
@@ -280,7 +297,7 @@ def main():
     tokenizer = CLIPTokenizer.from_pretrained(args.pretrained_model_name_or_path, subfolder="tokenizer")
     text_encoder = CLIPTextModel.from_pretrained(args.pretrained_model_name_or_path, subfolder="text_encoder")
     vae = AutoencoderKL.from_pretrained(args.pretrained_model_name_or_path, subfolder="vae")
-    unet = UNet2DConditionModel.from_pretrained(args.pretrained_model_name_or_path, subfolder="unet")
+    unet = UNet2DConditionModelReduced.from_pretrained(args.pretrained_model_name_or_path, subfolder="unet")
     image_encoder = CLIPVisionModelWithProjection.from_pretrained(args.image_encoder_path)
     # freeze parameters of models to save more memory
     unet.requires_grad_(False)
@@ -320,6 +337,7 @@ def main():
     unet.set_attn_processor(attn_procs)
     adapter_modules = torch.nn.ModuleList(unet.attn_processors.values())
     
+    
     ip_adapter = IPAdapter(unet, image_proj_model, adapter_modules, args.pretrained_ip_adapter_path)
     
     weight_dtype = torch.float32
@@ -337,7 +355,7 @@ def main():
     optimizer = torch.optim.AdamW(params_to_opt, lr=args.learning_rate, weight_decay=args.weight_decay)
     
     # dataloader
-    train_dataset = MyDataset(args.data_json_file, tokenizer=tokenizer, size=args.resolution, image_root_path=args.data_root_path)
+    train_dataset = CustomDataset(size=args.resolution, tokenizer=tokenizer)
     train_dataloader = torch.utils.data.DataLoader(
         train_dataset,
         shuffle=True,
@@ -349,7 +367,30 @@ def main():
     # Prepare everything with our `accelerator`.
     ip_adapter, optimizer, train_dataloader = accelerator.prepare(ip_adapter, optimizer, train_dataloader)
     
+    # print("-------------------------------------------------------------")
+    # print(ip_adapter)
+    # print("-------------------------------------------------------------")
+    
+    
+    # print("Trainable parameters:")
+    # for name, param in ip_adapter.named_parameters():
+    #     if param.requires_grad:
+    #         print(name)
+
+    
     global_step = 0
+    
+    if accelerator.is_main_process:
+        wandb.init(
+            project="TFG",
+            config=args,
+            name="ip_adapter-" + time_str,
+            group="ip_adapter",
+            job_type="train",
+        )
+        wandb.config.update(args)
+    # with wandb.init(project="TFG", config=args, name="ip_adapter", group="ip_adapter", job_type="train"):
+        # wandb.config.update(args)
     for epoch in range(0, args.num_train_epochs):
         begin = time.perf_counter()
         for step, batch in enumerate(train_dataloader):
@@ -357,7 +398,7 @@ def main():
             with accelerator.accumulate(ip_adapter):
                 # Convert images to latent space
                 with torch.no_grad():
-                    latents = vae.encode(batch["images"].to(accelerator.device, dtype=weight_dtype)).latent_dist.sample()
+                    latents = vae.encode(batch["gt_image"].to(accelerator.device, dtype=weight_dtype)).latent_dist.sample()
                     latents = latents * vae.config.scaling_factor
 
                 # Sample noise that we'll add to the latents
@@ -372,7 +413,7 @@ def main():
                 noisy_latents = noise_scheduler.add_noise(latents, noise, timesteps)
             
                 with torch.no_grad():
-                    image_embeds = image_encoder(batch["clip_images"].to(accelerator.device, dtype=weight_dtype)).image_embeds
+                    image_embeds = image_encoder(batch["condition_image"].to(accelerator.device, dtype=weight_dtype)).image_embeds
                 image_embeds_ = []
                 for image_embed, drop_image_embed in zip(image_embeds, batch["drop_image_embeds"]):
                     if drop_image_embed == 1:
@@ -382,7 +423,7 @@ def main():
                 image_embeds = torch.stack(image_embeds_)
             
                 with torch.no_grad():
-                    encoder_hidden_states = text_encoder(batch["text_input_ids"].to(accelerator.device))[0]
+                    encoder_hidden_states = text_encoder(batch["condition_text"].to(accelerator.device))[0]
                 
                 noise_pred = ip_adapter(noisy_latents, timesteps, encoder_hidden_states, image_embeds)
         
@@ -399,14 +440,18 @@ def main():
                 if accelerator.is_main_process:
                     print("Epoch {}, step {}, data_time: {}, time: {}, step_loss: {}".format(
                         epoch, step, load_data_time, time.perf_counter() - begin, avg_loss))
+                    wandb.log({"epoch": epoch, "step": step, "loss": avg_loss})
             
             global_step += 1
             
-            if global_step % args.save_steps == 0:
-                save_path = os.path.join(args.output_dir, f"checkpoint-{global_step}")
-                accelerator.save_state(save_path)
-            
             begin = time.perf_counter()
+            
+        if epoch % 5 == 0:
+            save_path = os.path.join(args.output_dir, f"checkpoint-{epoch}")
+            accelerator.save_state(save_path, safe_serialization=False)
+        
+    save_path = os.path.join(args.output_dir, f"checkpoint-final-{epoch}")
+    accelerator.save_state(save_path, safe_serialization=False)
                 
 if __name__ == "__main__":
     main()    

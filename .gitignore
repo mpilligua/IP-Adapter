@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.err
+*.out
+*.pyc
+*.safetensors
+models/*
+sdxl_models/*
+trainings/*
+wandb/*

@@ -1,0 +1,2306 @@
+[
+  {
+    "image_file":"scene_35\/10049_0280_225_35_255_255_255_35_135_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_35\/09904_0276_180_27_255_255_255_35_315_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_35\/09869_0275_225_35_255_255_255_35_270_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_35\/09939_0277_135_35_255_255_255_35_0_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_35\/09981_0278_45_35_255_255_255_35_45_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_35\/10009_0279_0_0_255_255_255_35_90_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_35\/09835_0274_315_35_255_255_255_35_225_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_35\/09797_0273_225_35_255_255_255_35_180_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_64\/18224_0507_0_27_255_255_255_64_270_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_64\/18363_0511_135_35_255_255_255_64_90_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_64\/18258_0508_270_27_255_255_255_64_315_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_64\/18150_0505_270_27_255_255_255_64_180_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_64\/18290_0509_90_27_255_255_255_64_0_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_64\/18399_0512_135_35_255_255_255_64_135_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_64\/18187_0506_315_35_255_255_255_64_225_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_64\/18332_0510_0_27_255_255_255_64_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_38\/10881_0303_45_35_255_255_255_38_90_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_38\/10772_0300_0_27_255_255_255_38_315_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_38\/10845_0302_45_35_255_255_255_38_45_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_38\/10910_0304_90_27_255_255_255_38_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_38\/10802_0301_90_27_255_255_255_38_0_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_38\/10700_0298_0_27_255_255_255_38_225_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_38\/10664_0297_0_27_255_255_255_38_180_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_38\/10732_0299_180_27_255_255_255_38_270_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_43\/12099_0337_135_35_255_255_255_43_180_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_43\/12318_0343_270_27_255_255_255_43_90_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_43\/12213_0340_45_35_255_255_255_43_315_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_43\/12278_0342_90_27_255_255_255_43_45_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_43\/12140_0338_0_27_255_255_255_43_225_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_43\/12177_0339_45_35_255_255_255_43_270_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_43\/12353_0344_225_35_255_255_255_43_135_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_43\/12242_0341_90_27_255_255_255_43_0_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_63\/17895_0498_135_35_255_255_255_63_225_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_63\/18113_0504_225_35_255_255_255_63_135_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_63\/17967_0500_135_35_255_255_255_63_315_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_63\/17934_0499_270_27_255_255_255_63_270_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_63\/18074_0503_90_27_255_255_255_63_90_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_63\/17861_0497_225_35_255_255_255_63_180_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_63\/18007_0501_315_35_255_255_255_63_0_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_63\/18044_0502_0_27_255_255_255_63_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_65\/18434_0513_90_27_255_255_255_65_180_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_65\/18583_0517_315_35_255_255_255_65_0_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_65\/18547_0516_315_35_255_255_255_65_315_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_65\/18476_0514_0_27_255_255_255_65_225_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_65\/18686_0520_90_27_255_255_255_65_135_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_65\/18649_0519_0_0_255_255_255_65_90_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_65\/18616_0518_180_27_255_255_255_65_45_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_65\/18506_0515_90_27_255_255_255_65_270_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_01\/00117_0004_45_35_255_255_255_1_315_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_01\/00223_0007_315_35_255_255_255_1_90_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_01\/00007_0001_315_35_255_255_255_1_180_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_01\/00189_0006_45_35_255_255_255_1_45_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_01\/00040_0002_180_27_255_255_255_1_225_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_01\/00261_0008_45_35_255_255_255_1_135_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_01\/00152_0005_0_27_255_255_255_1_0_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_01\/00078_0003_270_27_255_255_255_1_270_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_51\/14511_0404_135_35_255_255_255_51_315_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_51\/14445_0402_45_35_255_255_255_51_225_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_51\/14546_0405_90_27_255_255_255_51_0_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_51\/14401_0401_0_0_255_255_255_51_180_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_51\/14588_0406_0_27_255_255_255_51_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_51\/14619_0407_135_35_255_255_255_51_90_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_51\/14478_0403_270_27_255_255_255_51_270_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_51\/14659_0408_315_35_255_255_255_51_135_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_60\/16998_0473_270_27_255_255_255_60_180_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_60\/17103_0476_135_35_255_255_255_60_315_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_60\/17210_0479_90_27_255_255_255_60_90_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_60\/17031_0474_135_35_255_255_255_60_225_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_60\/17173_0478_0_0_255_255_255_60_45_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_60\/17145_0477_45_35_255_255_255_60_0_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_60\/17070_0475_270_27_255_255_255_60_270_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_60\/17253_0480_45_35_255_255_255_60_135_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_37\/10621_0296_0_0_255_255_255_37_135_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_37\/10412_0290_0_27_255_255_255_37_225_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_37\/10449_0291_45_35_255_255_255_37_270_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_37\/10590_0295_270_27_255_255_255_37_90_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_37\/10377_0289_45_35_255_255_255_37_180_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_37\/10551_0294_135_35_255_255_255_37_45_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_37\/10477_0292_0_0_255_255_255_37_315_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_37\/10519_0293_315_35_255_255_255_37_0_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_68\/19334_0538_90_27_255_255_255_68_225_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_68\/19304_0537_0_27_255_255_255_68_180_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_68\/19515_0543_135_35_255_255_255_68_90_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_68\/19369_0539_0_0_255_255_255_68_270_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_68\/19410_0540_270_27_255_255_255_68_315_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_68\/19556_0544_0_27_255_255_255_68_135_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_68\/19478_0542_90_27_255_255_255_68_45_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_68\/19445_0541_225_35_255_255_255_68_0_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_21\/05797_0162_0_0_255_255_255_21_225_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_21\/05870_0164_90_27_255_255_255_21_315_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_21\/05980_0167_180_27_255_255_255_21_90_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_21\/05946_0166_270_27_255_255_255_21_45_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_21\/06017_0168_225_35_255_255_255_21_135_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_21\/05837_0163_225_35_255_255_255_21_270_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_21\/05761_0161_0_0_255_255_255_21_180_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_21\/05906_0165_90_27_255_255_255_21_0_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_13\/03603_0101_135_35_255_255_255_13_0_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_13\/03681_0103_45_35_255_255_255_13_90_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_13\/03535_0099_315_35_255_255_255_13_270_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_13\/03717_0104_45_35_255_255_255_13_135_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_13\/03645_0102_45_35_255_255_255_13_45_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_13\/03572_0100_0_27_255_255_255_13_315_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_13\/03494_0098_90_27_255_255_255_13_225_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_13\/03464_0097_0_27_255_255_255_13_180_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_30\/08469_0236_45_35_255_255_255_30_315_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_30\/08574_0239_270_27_255_255_255_30_90_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_30\/08537_0238_225_35_255_255_255_30_45_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_30\/08427_0235_135_35_255_255_255_30_270_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_30\/08503_0237_315_35_255_255_255_30_0_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_30\/08611_0240_315_35_255_255_255_30_135_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_30\/08355_0233_135_35_255_255_255_30_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_30\/08389_0234_0_0_255_255_255_30_225_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_15\/04145_0116_225_35_255_255_255_15_315_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_15\/04216_0118_180_27_255_255_255_15_45_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_15\/04253_0119_225_35_255_255_255_15_90_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_15\/04109_0115_225_35_255_255_255_15_270_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_15\/04072_0114_180_27_255_255_255_15_225_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_15\/04039_0113_315_35_255_255_255_15_180_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_15\/04181_0117_225_35_255_255_255_15_0_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_15\/04288_0120_180_27_255_255_255_15_135_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_10\/02629_0074_0_0_255_255_255_10_225_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_10\/02673_0075_45_35_255_255_255_10_270_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_10\/02850_0080_270_27_255_255_255_10_135_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_10\/02595_0073_135_35_255_255_255_10_180_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_10\/02739_0077_135_35_255_255_255_10_0_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_10\/02809_0079_0_0_255_255_255_10_90_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_10\/02702_0076_90_27_255_255_255_10_315_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_10\/02778_0078_270_27_255_255_255_10_45_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_26\/07353_0205_45_35_255_255_255_26_0_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_26\/07453_0208_0_0_255_255_255_26_135_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_26\/07381_0206_0_0_255_255_255_26_45_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_26\/07313_0204_225_35_255_255_255_26_315_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_26\/07422_0207_270_27_255_255_255_26_90_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_26\/07273_0203_0_0_255_255_255_26_270_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_26\/07241_0202_225_35_255_255_255_26_225_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_26\/07203_0201_135_35_255_255_255_26_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_41\/11707_0326_315_35_255_255_255_41_45_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_41\/11526_0321_270_27_255_255_255_41_180_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_41\/11669_0325_225_35_255_255_255_41_0_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_41\/11774_0328_90_27_255_255_255_41_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_41\/11593_0323_0_0_255_255_255_41_270_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_41\/11743_0327_315_35_255_255_255_41_90_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_41\/11636_0324_0_27_255_255_255_41_315_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_41\/11561_0322_225_35_255_255_255_41_225_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_31\/08754_0244_270_27_255_255_255_31_315_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_31\/08897_0248_225_35_255_255_255_31_135_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_31\/08858_0247_90_27_255_255_255_31_90_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_31\/08719_0243_315_35_255_255_255_31_270_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_31\/08828_0246_0_27_255_255_255_31_45_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_31\/08642_0241_90_27_255_255_255_31_180_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_31\/08793_0245_45_35_255_255_255_31_0_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_31\/08684_0242_0_27_255_255_255_31_225_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_54\/15303_0426_135_35_255_255_255_54_225_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_54\/15525_0432_45_35_255_255_255_54_135_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_54\/15273_0425_45_35_255_255_255_54_180_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_54\/15376_0428_180_27_255_255_255_54_315_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_54\/15413_0429_225_35_255_255_255_54_0_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_54\/15449_0430_225_35_255_255_255_54_45_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_54\/15488_0431_0_27_255_255_255_54_90_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_54\/15339_0427_135_35_255_255_255_54_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_70\/20020_0557_180_27_255_255_255_70_0_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_70\/20094_0559_270_27_255_255_255_70_90_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_70\/19879_0553_315_35_255_255_255_70_180_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_70\/19913_0554_225_35_255_255_255_70_225_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_70\/20126_0560_90_27_255_255_255_70_135_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_70\/20059_0558_315_35_255_255_255_70_45_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_70\/19988_0556_0_27_255_255_255_70_315_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_70\/19948_0555_180_27_255_255_255_70_270_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_47\/13357_0372_0_0_255_255_255_47_315_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_47\/13399_0373_315_35_255_255_255_47_0_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_47\/13251_0369_135_35_255_255_255_47_180_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_47\/13468_0375_180_27_255_255_255_47_90_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_47\/13293_0370_45_35_255_255_255_47_225_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_47\/13505_0376_225_35_255_255_255_47_135_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_47\/13434_0374_270_27_255_255_255_47_45_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_47\/13325_0371_225_35_255_255_255_47_270_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_03\/00830_0024_90_27_255_255_255_3_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_03\/00726_0021_270_27_255_255_255_3_0_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_03\/00655_0019_315_35_255_255_255_3_270_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_03\/00579_0017_135_35_255_255_255_3_180_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_03\/00798_0023_270_27_255_255_255_3_90_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_03\/00685_0020_0_0_255_255_255_3_315_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_03\/00762_0022_270_27_255_255_255_3_45_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_03\/00619_0018_315_35_255_255_255_3_225_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_46\/13107_0365_135_35_255_255_255_46_0_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_46\/13038_0363_270_27_255_255_255_46_270_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_46\/12963_0361_135_35_255_255_255_46_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_46\/13069_0364_0_0_255_255_255_46_315_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_46\/13218_0368_270_27_255_255_255_46_135_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_46\/13000_0362_180_27_255_255_255_46_225_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_46\/13143_0366_135_35_255_255_255_46_45_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_46\/13183_0367_315_35_255_255_255_46_90_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_53\/15196_0423_180_27_255_255_255_53_90_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_53\/15163_0422_315_35_255_255_255_53_45_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_53\/15234_0424_270_27_255_255_255_53_135_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_53\/15053_0419_225_35_255_255_255_53_270_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_53\/15127_0421_315_35_255_255_255_53_0_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_53\/15092_0420_0_27_255_255_255_53_315_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_53\/15016_0418_180_27_255_255_255_53_225_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_53\/14981_0417_225_35_255_255_255_53_180_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_07\/01911_0054_135_35_255_255_255_7_45_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_07\/01840_0052_180_27_255_255_255_7_315_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_07\/01769_0050_225_35_255_255_255_7_225_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_07\/01808_0051_0_27_255_255_255_7_270_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_07\/01874_0053_90_27_255_255_255_7_0_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_07\/01946_0055_90_27_255_255_255_7_90_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_07\/01732_0049_180_27_255_255_255_7_180_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_07\/01984_0056_180_27_255_255_255_7_135_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_23\/06522_0182_270_27_255_255_255_23_45_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_23\/06411_0179_135_35_255_255_255_23_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_23\/06484_0181_180_27_255_255_255_23_0_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_23\/06554_0183_90_27_255_255_255_23_90_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_23\/06373_0178_0_0_255_255_255_23_225_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_23\/06594_0184_270_27_255_255_255_23_135_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_23\/06447_0180_135_35_255_255_255_23_315_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_23\/06342_0177_270_27_255_255_255_23_180_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_69\/19772_0550_0_27_255_255_255_69_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_69\/19696_0548_180_27_255_255_255_69_315_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_69\/19736_0549_0_27_255_255_255_69_0_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_69\/19842_0552_270_27_255_255_255_69_135_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_69\/19659_0547_135_35_255_255_255_69_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_69\/19628_0546_0_27_255_255_255_69_225_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_69\/19803_0551_135_35_255_255_255_69_90_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_69\/19586_0545_90_27_255_255_255_69_180_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_06\/01485_0042_45_35_255_255_255_6_225_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_06\/01693_0048_0_0_255_255_255_6_135_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_06\/01586_0045_90_27_255_255_255_6_0_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_06\/01551_0044_135_35_255_255_255_6_315_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_06\/01625_0046_225_35_255_255_255_6_45_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_06\/01513_0043_0_0_255_255_255_6_270_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_06\/01660_0047_180_27_255_255_255_6_90_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_06\/01445_0041_225_35_255_255_255_6_180_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_56\/15987_0445_135_35_255_255_255_56_0_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_56\/15952_0444_180_27_255_255_255_56_315_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_56\/16059_0447_135_35_255_255_255_56_90_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_56\/16024_0446_180_27_255_255_255_56_45_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_56\/16096_0448_180_27_255_255_255_56_135_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_56\/15849_0441_45_35_255_255_255_56_180_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_56\/15914_0443_90_27_255_255_255_56_270_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_56\/15878_0442_90_27_255_255_255_56_225_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_33\/09326_0260_90_27_255_255_255_33_315_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_33\/09295_0259_315_35_255_255_255_33_270_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_33\/09404_0262_0_27_255_255_255_33_45_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_33\/09477_0264_45_35_255_255_255_33_135_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_33\/09259_0258_315_35_255_255_255_33_225_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_33\/09218_0257_90_27_255_255_255_33_180_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_33\/09368_0261_0_27_255_255_255_33_0_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_33\/09437_0263_225_35_255_255_255_33_90_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_59\/16706_0465_90_27_255_255_255_59_180_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_59\/16742_0466_90_27_255_255_255_59_225_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_59\/16819_0468_315_35_255_255_255_59_315_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_59\/16924_0471_180_27_255_255_255_59_90_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_59\/16958_0472_90_27_255_255_255_59_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_59\/16785_0467_45_35_255_255_255_59_270_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_59\/16854_0469_270_27_255_255_255_59_0_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_59\/16891_0470_315_35_255_255_255_59_45_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_29\/08177_0228_225_35_255_255_255_29_315_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_29\/08210_0229_90_27_255_255_255_29_0_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_29\/08106_0226_270_27_255_255_255_29_225_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_29\/08286_0231_270_27_255_255_255_29_90_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_29\/08144_0227_0_27_255_255_255_29_270_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_29\/08248_0230_180_27_255_255_255_29_45_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_29\/08067_0225_135_35_255_255_255_29_180_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_29\/08325_0232_45_35_255_255_255_29_135_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_66\/18944_0527_0_27_255_255_255_66_90_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_66\/18795_0523_135_35_255_255_255_66_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_66\/18727_0521_315_35_255_255_255_66_180_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_66\/18872_0525_0_27_255_255_255_66_0_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_66\/18901_0526_0_0_255_255_255_66_45_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_66\/18976_0528_180_27_255_255_255_66_135_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_66\/18829_0524_0_0_255_255_255_66_315_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_66\/18764_0522_0_27_255_255_255_66_225_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_50\/14155_0394_315_35_255_255_255_50_225_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_50\/14365_0400_0_0_255_255_255_50_135_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_50\/14258_0397_90_27_255_255_255_50_0_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_50\/14329_0399_0_0_255_255_255_50_90_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_50\/14298_0398_270_27_255_255_255_50_45_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_50\/14186_0395_90_27_255_255_255_50_270_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_50\/14227_0396_315_35_255_255_255_50_315_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_50\/14118_0393_270_27_255_255_255_50_180_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_58\/16637_0463_225_35_255_255_255_58_90_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_58\/16458_0458_270_27_255_255_255_58_225_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_58\/16669_0464_0_0_255_255_255_58_135_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_58\/16568_0461_0_27_255_255_255_58_0_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_58\/16496_0459_0_27_255_255_255_58_270_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_58\/16602_0462_270_27_255_255_255_58_45_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_58\/16527_0460_135_35_255_255_255_58_315_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_58\/16418_0457_90_27_255_255_255_58_180_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_16\/04357_0122_0_0_255_255_255_16_225_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_16\/04505_0126_225_35_255_255_255_16_45_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_16\/04542_0127_270_27_255_255_255_16_90_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_16\/04395_0123_135_35_255_255_255_16_270_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_16\/04429_0124_0_0_255_255_255_16_315_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_16\/04465_0125_0_0_255_255_255_16_0_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_16\/04329_0121_45_35_255_255_255_16_180_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_16\/04580_0128_0_27_255_255_255_16_135_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_73\/20779_0578_315_35_255_255_255_73_225_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_73\/20847_0580_135_35_255_255_255_73_315_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_73\/20810_0579_90_27_255_255_255_73_270_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_73\/20996_0584_0_27_255_255_255_73_135_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_73\/20889_0581_45_35_255_255_255_73_0_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_73\/20921_0582_225_35_255_255_255_73_45_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_73\/20745_0577_45_35_255_255_255_73_180_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_73\/20956_0583_180_27_255_255_255_73_90_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_17\/04650_0130_270_27_255_255_255_17_225_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_17\/04756_0133_180_27_255_255_255_17_0_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_17\/04829_0135_225_35_255_255_255_17_90_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_17\/04616_0129_0_27_255_255_255_17_180_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_17\/04725_0132_45_35_255_255_255_17_315_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_17\/04681_0131_0_0_255_255_255_17_270_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_17\/04793_0134_225_35_255_255_255_17_45_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_17\/04868_0136_0_27_255_255_255_17_135_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_08\/02239_0063_315_35_255_255_255_8_90_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_08\/02057_0058_225_35_255_255_255_8_225_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_08\/02162_0061_90_27_255_255_255_8_0_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_08\/02272_0064_180_27_255_255_255_8_135_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_08\/02131_0060_315_35_255_255_255_8_315_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_08\/02018_0057_90_27_255_255_255_8_180_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_08\/02095_0059_315_35_255_255_255_8_270_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_08\/02203_0062_315_35_255_255_255_8_45_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_75\/21500_0598_0_27_255_255_255_75_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_75\/21389_0595_225_35_255_255_255_75_270_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_75\/21535_0599_315_35_255_255_255_75_90_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_75\/21349_0594_0_0_255_255_255_75_225_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_75\/21459_0597_135_35_255_255_255_75_0_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_75\/21572_0600_0_27_255_255_255_75_135_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_75\/21429_0596_45_35_255_255_255_75_315_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_75\/21315_0593_135_35_255_255_255_75_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_71\/20348_0566_0_27_255_255_255_71_45_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_71\/20162_0561_90_27_255_255_255_71_180_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_71\/20235_0563_135_35_255_255_255_71_270_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_71\/20308_0565_180_27_255_255_255_71_0_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_71\/20272_0564_180_27_255_255_255_71_315_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_71\/20419_0568_315_35_255_255_255_71_135_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_71\/20197_0562_0_0_255_255_255_71_225_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_71\/20383_0567_315_35_255_255_255_71_90_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_48\/13609_0379_0_0_255_255_255_48_270_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_48\/13646_0380_90_27_255_255_255_48_315_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_48\/13790_0384_90_27_255_255_255_48_135_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_48\/13723_0382_315_35_255_255_255_48_45_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_48\/13689_0381_45_35_255_255_255_48_0_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_48\/13537_0377_0_0_255_255_255_48_180_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_48\/13754_0383_90_27_255_255_255_48_90_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_48\/13575_0378_135_35_255_255_255_48_225_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_45\/12748_0355_180_27_255_255_255_45_270_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_45\/12895_0359_315_35_255_255_255_45_90_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_45\/12857_0358_225_35_255_255_255_45_45_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_45\/12715_0354_315_35_255_255_255_45_225_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_45\/12676_0353_180_27_255_255_255_45_180_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_45\/12819_0357_135_35_255_255_255_45_0_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_45\/12927_0360_135_35_255_255_255_45_135_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_45\/12783_0356_135_35_255_255_255_45_315_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_79\/22467_0625_135_35_255_255_255_79_180_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_79\/22574_0628_90_27_255_255_255_79_315_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_79\/22539_0627_135_35_255_255_255_79_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_79\/22501_0626_0_0_255_255_255_79_225_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_79\/22685_0631_225_35_255_255_255_79_90_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_79\/22651_0630_315_35_255_255_255_79_45_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_79\/22725_0632_45_35_255_255_255_79_135_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_79\/22617_0629_45_35_255_255_255_79_0_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_05\/01265_0036_225_35_255_255_255_5_315_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_05\/01408_0040_180_27_255_255_255_5_135_1_4.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_05\/01190_0034_90_27_255_255_255_5_225_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_05\/01304_0037_0_27_255_255_255_5_0_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_05\/01336_0038_180_27_255_255_255_5_45_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_05\/01161_0033_45_35_255_255_255_5_180_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_05\/01372_0039_180_27_255_255_255_5_90_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_05\/01233_0035_45_35_255_255_255_5_270_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_36\/10193_0284_225_35_255_255_255_36_315_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_36\/10088_0281_0_27_255_255_255_36_180_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_36\/10119_0282_135_35_255_255_255_36_225_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_36\/10334_0288_90_27_255_255_255_36_135_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_36\/10232_0285_0_27_255_255_255_36_0_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_36\/10268_0286_0_27_255_255_255_36_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_36\/10299_0287_135_35_255_255_255_36_90_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_36\/10157_0283_225_35_255_255_255_36_270_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_76\/21856_0608_180_27_255_255_255_76_135_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_76\/21750_0605_270_27_255_255_255_76_0_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_76\/21713_0604_225_35_255_255_255_76_315_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_76\/21645_0602_45_35_255_255_255_76_225_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_76\/21782_0606_90_27_255_255_255_76_45_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_76\/21820_0607_180_27_255_255_255_76_90_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_76\/21677_0603_225_35_255_255_255_76_270_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_76\/21601_0601_0_0_255_255_255_76_180_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_24\/06668_0186_0_27_255_255_255_24_225_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_24\/06773_0189_225_35_255_255_255_24_0_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_24\/06735_0188_135_35_255_255_255_24_315_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_24\/06843_0191_135_35_255_255_255_24_90_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_24\/06809_0190_225_35_255_255_255_24_45_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_24\/06702_0187_270_27_255_255_255_24_270_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_24\/06883_0192_315_35_255_255_255_24_135_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_24\/06630_0185_270_27_255_255_255_24_180_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_78\/22361_0622_225_35_255_255_255_78_45_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_78\/22397_0623_225_35_255_255_255_78_90_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_78\/22435_0624_315_35_255_255_255_78_135_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_78\/22177_0617_0_0_255_255_255_78_180_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_78\/22217_0618_225_35_255_255_255_78_225_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_78\/22253_0619_225_35_255_255_255_78_270_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_78\/22323_0621_135_35_255_255_255_78_0_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_78\/22287_0620_135_35_255_255_255_78_315_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_61\/17360_0483_0_27_255_255_255_61_270_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_61\/17289_0481_45_35_255_255_255_61_180_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_61\/17325_0482_45_35_255_255_255_61_225_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_61\/17426_0485_90_27_255_255_255_61_0_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_61\/17393_0484_225_35_255_255_255_61_315_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_61\/17463_0486_135_35_255_255_255_61_45_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_61\/17539_0488_315_35_255_255_255_61_135_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_61\/17505_0487_45_35_255_255_255_61_90_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_57\/16173_0450_45_35_255_255_255_57_225_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_57\/16388_0456_0_27_255_255_255_57_135_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_57\/16201_0451_0_0_255_255_255_57_270_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_57\/16348_0455_180_27_255_255_255_57_90_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_57\/16240_0452_180_27_255_255_255_57_315_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_57\/16315_0454_315_35_255_255_255_57_45_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_57\/16131_0449_135_35_255_255_255_57_180_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_57\/16278_0453_270_27_255_255_255_57_0_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_22\/06124_0171_180_27_255_255_255_22_270_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_22\/06053_0169_225_35_255_255_255_22_180_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_22\/06198_0173_270_27_255_255_255_22_0_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_22\/06158_0172_90_27_255_255_255_22_315_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_22\/06093_0170_45_35_255_255_255_22_225_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_22\/06305_0176_225_35_255_255_255_22_135_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_22\/06237_0174_45_35_255_255_255_22_45_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_22\/06266_0175_90_27_255_255_255_22_90_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_12\/03176_0089_0_27_255_255_255_12_180_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_12\/03313_0093_0_0_255_255_255_12_0_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_12\/03349_0094_0_0_255_255_255_12_45_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_12\/03284_0092_0_27_255_255_255_12_315_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_12\/03249_0091_45_35_255_255_255_12_270_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_12\/03389_0095_225_35_255_255_255_12_90_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_12\/03212_0090_0_27_255_255_255_12_225_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_12\/03428_0096_0_27_255_255_255_12_135_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_40\/11415_0318_135_35_255_255_255_40_45_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_40\/11341_0316_0_0_255_255_255_40_315_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_40\/11378_0317_90_27_255_255_255_40_0_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_40\/11269_0314_0_0_255_255_255_40_225_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_40\/11485_0320_0_0_255_255_255_40_135_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_40\/11307_0315_135_35_255_255_255_40_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_40\/11454_0319_270_27_255_255_255_40_90_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_40\/11235_0313_135_35_255_255_255_40_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_44\/12498_0348_270_27_255_255_255_44_315_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_44\/12608_0351_0_27_255_255_255_44_90_1_8.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_44\/12424_0346_180_27_255_255_255_44_225_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_44\/12459_0347_135_35_255_255_255_44_270_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_44\/12391_0345_315_35_255_255_255_44_180_1_7.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_44\/12532_0349_180_27_255_255_255_44_0_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_44\/12645_0352_45_35_255_255_255_44_135_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_44\/12573_0350_45_35_255_255_255_44_45_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_20\/05479_0153_315_35_255_255_255_20_180_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_20\/05726_0160_90_27_255_255_255_20_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_20\/05617_0157_0_0_255_255_255_20_0_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_20\/05589_0156_45_35_255_255_255_20_315_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_20\/05690_0159_90_27_255_255_255_20_90_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_20\/05509_0154_0_0_255_255_255_20_225_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_20\/05551_0155_315_35_255_255_255_20_270_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_20\/05655_0158_135_35_255_255_255_20_45_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_74\/21099_0587_135_35_255_255_255_74_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_74\/21279_0592_135_35_255_255_255_74_135_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_74\/21026_0585_90_27_255_255_255_74_180_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_74\/21169_0589_0_0_255_255_255_74_0_1_1.jpg",
+    "text":"a photo with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_74\/21138_0588_270_27_255_255_255_74_315_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_74\/21247_0591_315_35_255_255_255_74_90_1_7.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_74\/21065_0586_225_35_255_255_255_74_225_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_74\/21207_0590_135_35_255_255_255_74_45_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_32\/09003_0251_135_35_255_255_255_32_270_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_32\/09183_0256_135_35_255_255_255_32_135_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_32\/08935_0249_315_35_255_255_255_32_180_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_32\/09039_0252_135_35_255_255_255_32_315_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_32\/09146_0255_90_27_255_255_255_32_90_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_32\/08967_0250_135_35_255_255_255_32_225_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_32\/09117_0254_45_35_255_255_255_32_45_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_32\/09081_0253_45_35_255_255_255_32_0_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_34\/09510_0265_270_27_255_255_255_34_180_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_34\/09725_0271_225_35_255_255_255_34_90_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_34\/09760_0272_180_27_255_255_255_34_135_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_34\/09649_0269_0_0_255_255_255_34_0_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_34\/09613_0268_0_0_255_255_255_34_315_1_1.jpg",
+    "text":"a scene with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_34\/09582_0267_270_27_255_255_255_34_270_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_34\/09686_0270_90_27_255_255_255_34_45_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_34\/09547_0266_315_35_255_255_255_34_225_1_7.jpg",
+    "text":"an image with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_11\/02889_0081_45_35_255_255_255_11_180_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_11\/02989_0084_0_0_255_255_255_11_315_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_11\/03027_0085_135_35_255_255_255_11_0_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_11\/03069_0086_45_35_255_255_255_11_45_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_11\/03102_0087_270_27_255_255_255_11_90_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_11\/02917_0082_0_0_255_255_255_11_225_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_11\/02960_0083_0_27_255_255_255_11_270_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_11\/03134_0088_90_27_255_255_255_11_135_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_39\/11018_0307_90_27_255_255_255_39_270_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_39\/10984_0306_180_27_255_255_255_39_225_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_39\/11205_0312_45_35_255_255_255_39_135_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_39\/11094_0309_270_27_255_255_255_39_0_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_39\/10950_0305_270_27_255_255_255_39_180_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_39\/11125_0310_0_0_255_255_255_39_45_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_39\/11061_0308_45_35_255_255_255_39_315_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_39\/11163_0311_135_35_255_255_255_39_90_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_52\/14763_0411_135_35_255_255_255_52_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_52\/14912_0415_0_27_255_255_255_52_90_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_52\/14946_0416_270_27_255_255_255_52_135_1_6.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_52\/14726_0410_90_27_255_255_255_52_225_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_52\/14804_0412_0_27_255_255_255_52_315_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_52\/14836_0413_180_27_255_255_255_52_0_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_52\/14877_0414_45_35_255_255_255_52_45_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_52\/14693_0409_225_35_255_255_255_52_180_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_27\/07601_0212_225_35_255_255_255_27_315_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_27\/07527_0210_135_35_255_255_255_27_225_1_3.jpg",
+    "text":"an image with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_27\/07568_0211_0_27_255_255_255_27_270_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_27\/07633_0213_0_0_255_255_255_27_0_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_27\/07491_0209_135_35_255_255_255_27_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_27\/07673_0214_225_35_255_255_255_27_45_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_27\/07749_0216_45_35_255_255_255_27_135_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_27\/07706_0215_90_27_255_255_255_27_90_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_80\/22833_0635_45_35_255_255_255_80_270_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_80\/22973_0639_225_35_255_255_255_80_90_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_80\/22940_0638_0_27_255_255_255_80_45_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_80\/23007_0640_135_35_255_255_255_80_135_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_80\/22898_0637_90_27_255_255_255_80_0_1_2.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_80\/22866_0636_270_27_255_255_255_80_315_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_80\/22758_0633_270_27_255_255_255_80_180_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_80\/22793_0634_225_35_255_255_255_80_225_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_42\/12029_0335_225_35_255_255_255_42_90_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_42\/11887_0331_315_35_255_255_255_42_270_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_42\/11816_0329_0_27_255_255_255_42_180_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_42\/11997_0334_45_35_255_255_255_42_45_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_42\/11848_0330_180_27_255_255_255_42_225_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_42\/12062_0336_90_27_255_255_255_42_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_42\/11920_0332_180_27_255_255_255_42_315_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_42\/11960_0333_0_27_255_255_255_42_0_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_14\/03789_0106_45_35_255_255_255_14_225_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_14\/03748_0105_180_27_255_255_255_14_180_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_14\/03890_0109_90_27_255_255_255_14_0_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_14\/03821_0107_225_35_255_255_255_14_270_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_14\/04005_0112_45_35_255_255_255_14_135_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_14\/03930_0110_270_27_255_255_255_14_45_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_14\/03965_0111_225_35_255_255_255_14_90_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_14\/03861_0108_45_35_255_255_255_14_315_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_72\/20450_0569_90_27_255_255_255_72_180_1_2.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_72\/20489_0570_225_35_255_255_255_72_225_1_5.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_72\/20526_0571_270_27_255_255_255_72_270_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_72\/20671_0575_315_35_255_255_255_72_90_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_72\/20704_0576_180_27_255_255_255_72_135_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_72\/20632_0574_180_27_255_255_255_72_45_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_72\/20599_0573_315_35_255_255_255_72_0_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_72\/20565_0572_45_35_255_255_255_72_315_1_9.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_55\/15776_0439_0_27_255_255_255_55_90_1_8.jpg",
+    "text":"an image with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_55\/15664_0436_180_27_255_255_255_55_315_1_4.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_55\/15811_0440_315_35_255_255_255_55_135_1_7.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.88"
+  },
+  {
+    "image_file":"scene_55\/15632_0435_0_27_255_255_255_55_270_1_8.jpg",
+    "text":"a composition with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_55\/15738_0438_270_27_255_255_255_55_45_1_6.jpg",
+    "text":"an image with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_55\/15597_0434_45_35_255_255_255_55_225_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_55\/15553_0433_0_0_255_255_255_55_180_1_1.jpg",
+    "text":"an image with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_55\/15698_0437_90_27_255_255_255_55_0_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_62\/17678_0492_90_27_255_255_255_62_315_1_2.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_62\/17825_0496_225_35_255_255_255_62_135_1_5.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_62\/17756_0494_0_27_255_255_255_62_45_1_8.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.00"
+  },
+  {
+    "image_file":"scene_62\/17785_0495_0_0_255_255_255_62_90_1_1.jpg",
+    "text":"a composition with tilt 0.00, and pan 0.00"
+  },
+  {
+    "image_file":"scene_62\/17609_0490_225_35_255_255_255_62_225_1_5.jpg",
+    "text":"an image with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_62\/17572_0489_180_27_255_255_255_62_180_1_4.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_62\/17643_0491_135_35_255_255_255_62_270_1_3.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_62\/17716_0493_180_27_255_255_255_62_0_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_67\/19264_0536_180_27_255_255_255_67_135_1_4.jpg",
+    "text":"an image with tilt 0.07, and pan 0.50"
+  },
+  {
+    "image_file":"scene_67\/19017_0529_45_35_255_255_255_67_180_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_67\/19083_0531_135_35_255_255_255_67_270_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_67\/19154_0533_90_27_255_255_255_67_0_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  },
+  {
+    "image_file":"scene_67\/19050_0530_270_27_255_255_255_67_225_1_6.jpg",
+    "text":"a photo with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_67\/19191_0534_135_35_255_255_255_67_45_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_67\/19227_0535_135_35_255_255_255_67_90_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_67\/19119_0532_135_35_255_255_255_67_315_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_18\/04935_0138_135_35_255_255_255_18_225_1_3.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_18\/04973_0139_225_35_255_255_255_18_270_1_5.jpg",
+    "text":"a composition with tilt 0.10, and pan 0.62"
+  },
+  {
+    "image_file":"scene_18\/05046_0141_270_27_255_255_255_18_0_1_6.jpg",
+    "text":"a scene with tilt 0.07, and pan 0.75"
+  },
+  {
+    "image_file":"scene_18\/05085_0142_45_35_255_255_255_18_45_1_9.jpg",
+    "text":"an image with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_18\/05121_0143_45_35_255_255_255_18_90_1_9.jpg",
+    "text":"a scene with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_18\/05013_0140_45_35_255_255_255_18_315_1_9.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.12"
+  },
+  {
+    "image_file":"scene_18\/04899_0137_135_35_255_255_255_18_180_1_3.jpg",
+    "text":"a photo with tilt 0.10, and pan 0.38"
+  },
+  {
+    "image_file":"scene_18\/05150_0144_90_27_255_255_255_18_135_1_2.jpg",
+    "text":"an image with tilt 0.07, and pan 0.25"
+  }
+]
